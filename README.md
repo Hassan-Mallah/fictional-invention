@@ -1,2 +1,2 @@
 # fictional-invention
-Export django admin record to excel
+Export django admin records to excel
